@@ -1,1 +1,1 @@
-# Image-Caption-Generator-deep-learning
+# Image-Caption-Generator using Deep Learning
